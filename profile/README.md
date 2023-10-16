@@ -5,7 +5,6 @@ Welcome to the GitHub repository for pTechFusion. We are a dynamic and innovativ
 ## Table of Contents
 - [About Us](#about-us)
 - [Our Expertise](#our-expertise)
-- [Projects](#projects)
 - [Contact Information](#contact-information)
 
 ## About Us
